@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.u5_01_menus.U5_01_Menus" >
+
+    <item
+        android:id="@+id/action_camera"
+        android:orderInCategory="100"
+        android:title="Lanzar Cámara"
+        app:showAsAction="never" />
+
+</menu>
